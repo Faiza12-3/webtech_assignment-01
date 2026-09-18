@@ -1,1 +1,1 @@
-A simple resume website created for the Web Technologies assignment using HTML .
+Simple resume created  using HTML as part of my Web Technologies assignment.
